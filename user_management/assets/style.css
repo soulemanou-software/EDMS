@@ -1,0 +1,59 @@
+
+/*
+  Theme Name: Codeceil App
+  Author: Nababur Rahaman
+  Support: nababurbd@gmail.com
+  Website URL: https://codeceil.com
+  Author URL: https://github.com/nababur
+  Description: For share Codes and Snippets.
+  Version: 1.0
+*/
+
+
+/*Import Google Fonts*/
+/* @import url('https://fonts.googleapis.com/css?family=Nunito:300,400,600,700&display=swap'); */
+
+
+*{
+  font-family: 'Baloo 2', cursive;
+}
+body {
+  background: #B4B4B4;
+  line-height: 24px;
+  font-size: 19px;
+  font-style: normal;
+  font-weight: normal;
+  visibility: visible;
+    background: #B4B4B4;
+font-family: 'Baloo 2', cursive;
+  color: black; }
+
+h1, h2, h3, h4, h5, h6 {
+  color: #222;
+font-family: 'Baloo 2', cursive;
+  font-weight: 900;
+  margin-top: 0; }
+
+h1 {
+  font-size: 36px;
+  line-height: 32px; }
+
+h2 {
+  font-size: 42px;
+  line-height: 36px; }
+
+h3 {
+  font-size: 24px;
+  line-height: 30px; }
+
+h4 {
+  font-size: 18px;
+  line-height: 24px; }
+
+h5 {
+  font-size: 14px;
+  line-height: 18px; }
+
+h6 {
+  font-size: 12px;
+  line-height: 24px; }

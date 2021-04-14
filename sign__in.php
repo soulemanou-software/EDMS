@@ -1,0 +1,39 @@
+
+<link rel="stylesheet" href="css__font__family\font.css">
+<link rel="stylesheet" href="sign__in-style.css">
+<div class="contaner">
+  <!-- sign in form box begins  -->
+  <div class="contaner">
+
+    <div class="sign--in--box">
+      <div id="sign_in" class="rotate_sign_in">
+        <p><h3>Sign In</h3></p>
+        <p class="sign_socil_logo">
+           <img src="images\icons8_facebook_48px.png" alt="">
+           <img src="images\icons8_twitter_32px.png" alt="">
+           <img src="images\icons8_windows_xp_48px.png" alt="">
+         </p>
+         <p class="optional_note"> or use your email account</p>
+            <form class="sign_in_from" action="sign__in--func.php" method="post">
+              <p><input type="text" name="email" value="" placeholder="Email"></p>
+              <p><input type="password" name="password" value="" placeholder="Password"></p>
+              <p><u><a href="http://localhost/www.ispa.cm/dms/resetpassword/reset__password.php">forgot your password ?</a></u></p>
+              <input type="submit" name="submit" placeholder="sign in">
+            </form>
+      </div>
+    </div>
+    <!-- end of sign in form -->
+
+    <div class="cart--sign--up-mgs">
+      <!-- this is the sign message box -->
+      <div id="sign_in_message" class="rotate_sign_in_message">
+        <h2>Welcome Back !</h2>
+        <p class="note_about-login"> Enter personal details to your employee account <br>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+
+<a href="http://localhost/www.ispa.cm/dms/sign__up.php"><button class="sing-up-btn">
+    Sign Up
+</button></a>
+      </div>
+    </div>
+    <!-- end of sign in message box -->
+</div>
