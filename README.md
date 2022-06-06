@@ -1,37 +1,94 @@
-## Welcome to GitHub Pages
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-You can use the [editor on GitHub](https://github.com/soulemanou-software/EDMS/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# Project Name: Capstone for Tech company (FASTDEVZ) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+> Description the project.
+>This project shows all my abilities as a software developer  and also as a frontEnd developer and this is my first capstone project,about a tech company called fastdevz.
 
-### Markdown
+## Built With
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Major languages
+    1. *html*
+    2. *css*
+    3. *javascript*
+- Frameworks
 
-```markdown
-Syntax highlighted code block
+- Technologies used
+    1. *browser*
+    2. *html,css,javascript *
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Live Demo
 
-1. Numbered
-2. List
+[Live Demo Link](https://soulemanou-software.github.io/EDMS)
+## Live video
+[video link here](#)
 
-**Bold** and _Italic_ and `Code` text
+## Getting Started
 
-[Link](url) and ![Image](src)
-```
+**Setting up the project locally.**
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+To get a local copy up and running follow these simple example steps.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/soulemanou-software/EDMS/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Prerequisites
+1. *install an editor of your choice (vscode or atom)*
+2. *install a browser (chrome or Firefox)*
+3. *if using atom as editor install a liveserver extension*
+4. *install git*
 
-### Support or Contact
+### Setup
+1. *copy the link of the repository document*
+2. *use git to clone the repository *(ex: git clone <repository link here>)**
+    
+### Install
+1. *install an editor of your choice (vscode or atom)*
+2. *install a browser (chrome or Firefox)*
+3. *if using atom as editor install a liveserver*
+4. *install git*
+    
+    
+### Usage
+1. *it is a personal porfolio made to present your work as a developer *
+### Run tests
+1. *open the cloned repository using your editor as a new windos and as a folder*
+2. *click or select  the index.html file and run as live-server*
+**OR to just view the result**
+    1.*just open the cloned repository and double-click on the index.html file *
+    
+    
+### Deployment
+1. *copy the link of the repository document*
+2. *use git to clone the repository *(ex: git clone <repository link here>)* *
+ 3. *open the cloned repository using your editor as a new windows and as a folder*
+4. *click or select  the index.html file and run as live-server*
+**OR to just view the result**
+    1. *just open the cloned repository and double-click on the index.html file *
+     
+## Authors
+👤 **Author1**
+ - SOULEMANOU KUNCHIEFUH BABANOU**
+- GitHub: [@githubhandle](https://github.com/soulemanou-software)
+- Twitter: [@twitterhandle](https://twitter.com/fastdevz1)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+    
+    
+## 🤝 Contributing
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
