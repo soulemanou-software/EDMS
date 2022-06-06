@@ -12,7 +12,7 @@
       <p class="p--mgs">Welcome To Soulemanou Kunchiefuh Babanou Project On Electornic Document Management System.<br>
         you are expected to provide legit information about you so as to ease infromation flow in the platform</p>
 
-<a href="http://localhost/www.ispa.cm/dms/sign__in.php"><button class="sign_in_btn">
+<a href="sign__in.php"><button class="sign_in_btn">
   Sign In
 </button></a>
 
